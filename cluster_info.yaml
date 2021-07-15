@@ -1,0 +1,14 @@
+ssh_private_key: '/Users/xxx/.ssh/yy.pem'
+data_nodes:
+  - '10.2.1.2'
+master_nodes:
+  - '10.2.1.2'
+coordinate_nodes:
+  - '10.2.1.2'
+kibana_nodes:
+  - '10.2.1.2'
+
+es_host: 'es_host'
+es_version: '7.13.3'
+kibana_version: '7.13.3'
+node_total: '8'
