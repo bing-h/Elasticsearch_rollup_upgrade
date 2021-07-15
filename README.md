@@ -1,0 +1,1 @@
+# elasticsearch_rollup_upgrade
